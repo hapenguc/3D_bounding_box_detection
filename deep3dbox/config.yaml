@@ -1,0 +1,6 @@
+kitti_path: /mnt/nfs/zzwu/04_centerNet/CenterNet-master_lyc_mask/deep3dbox/data/kitti
+epochs: 1000
+bins: 2
+w: 1
+alpha: 1
+batches: 1
