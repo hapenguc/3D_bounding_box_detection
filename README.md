@@ -8,7 +8,7 @@
 
 | Backbone     |  AP /E | AP /M             |  AP / H |
 |--------------|-----------|--------------|-----------------------|
-|ResNet-18     | 	89.22%       | 	78.71%             |           69.8	|
+|ResNet-18     | 	89.22%       | 	78.71%             |           69.8%	|
 
 
 ### 3D bounding box detection on KITTI validation
