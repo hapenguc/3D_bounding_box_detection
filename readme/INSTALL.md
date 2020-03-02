@@ -45,11 +45,6 @@ After install Anaconda:
 
 3. Clone this repo:
 
-    ~~~
-    CenterNet_ROOT=/path/to/clone/CenterNet
-    git clone --recursive https://github.com/xingyizhou/CenterNet $CenterNet_ROOT
-    ~~~
-
 
 4. Install the requirements
 
